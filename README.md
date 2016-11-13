@@ -6,6 +6,7 @@ A simple Docker environment to run Sony's PlayStation SDK tools
 Tested with:
 - PlayStation 2 SDK 1.26.1 on DTL-T10000
 - PlayStation 3 SDK 1.9 on DECR-1000A
+- PlayStation Portable SDK 1.5 on DTP-T10000
 
 ## How to use
 - Ensure you have the binaries from the SDK on your local machine (`cell/host-linux` for PS3 or `/usr/local/sce` for PS2)
